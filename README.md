@@ -5,6 +5,6 @@ I enjoy learning new things, solving problems, and building projects step by ste
 
 🌱 Currently learning: `Web development` `HTML` `CSS` `JavaScript` `Node.js` `Vue.js` `Java` `SQL` `Spring` <br>
 🚀 Goal: Becoming a better developer, one step at a time <br>
-📫 How to reach me: `yur1n9@kakao.com` <br>
+📫 How to reach me: `yurissshin@gmail.com` <br>
 
 Thanks for visiting my GitHub! 😊
